@@ -13,3 +13,16 @@ Output: 45254
 
 Input: N = 196
 Output: No palindrome exist
+
+/* n=195
+ * rev=591
+ * sum=n+rev=786=n
+ * rev=687
+ * sum=n+rev=1473=n
+ * rev=3741
+ * sum=n+rev=5214=n
+ * rev=4125
+ * sum=n+rev=9889=n
+ * rev=9889
+ * hence palidrome exists
+ */
